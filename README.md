@@ -49,7 +49,9 @@ More: [full list](./credentials/README.md)
 
 ### What I'm Working On Now
 
-Building AWS networking labs, exploring RAG pipelines, contributing to AWS Community Builders content. [Details →](./currentwork/README.md)
+Building AWS networking labs, exploring RAG pipelines, contributing to AWS Community Builders content. 
+
+More: [details](./currentwork/README.md)
 
 ---
 
@@ -60,3 +62,4 @@ Building AWS networking labs, exploring RAG pipelines, contributing to AWS Commu
 [<img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />](https://medium.com/@vostotskiy)
 [<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" />](https://dev.to/vvostotskyi)
 [<img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" />](https://credly.com/users/vitalii-vostotskyi)
+[<img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />](https://x.com/vostotskyi)
