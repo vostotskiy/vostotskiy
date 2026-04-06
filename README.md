@@ -25,6 +25,12 @@
 - **Developer Experience** — Git hooks, PR templates, quality gates, test optimization, engineering standards
 
 ---
+### Open Source
+
+- **[ai-fluency-skill](https://github.com/vostotskiy/ai-fluency-skill)** — 
+  LLM skill for prompt and workflow self-diagnosis using the 4D AI Fluency framework
+
+---
 
 ### Featured Articles
 
